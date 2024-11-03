@@ -14,3 +14,6 @@ pipenv install
 ```bash
 pipenv run main.py
 ```
+
+## Ejecutar
+carpeta "documentation" contiene PDF sobre el proyecto de problemas de cámaras en teléfonos móviles.

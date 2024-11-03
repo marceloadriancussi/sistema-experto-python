@@ -1,0 +1,129 @@
+{
+  "__v": 1,
+  "description": "Base de conocimiento sobre problemas de camara en un telefono",
+  "entries": [
+    {
+      "name": "limpiar protector de lente",
+      "description": "Los protectores son muy sutiles a ensuciarse con la manipulación, este puede venir sucio de origen o puede ensuciarse en el proceso de ensamblado del telefono",
+      "props": [
+        "tiene imagen",
+        "tiene imagen defectuosa",
+        "tiene protector de lente",
+        "esta correctamente puesto el protector",
+        "es correcto el modelo de protector",
+        "esta sucio el protector de lente"
+      ]
+    },
+    {
+      "name": "cambiar protector de lente",
+      "description": "Los protectores de lente a veces suelen venir dañados de origen",
+      "props": [
+        "tiene imagen",
+        "tiene imagen defectuosa",
+        "tiene protector de lente",
+        "esta correctamente puesto el protector",
+        "es correcto el modelo de protector"
+      ]
+    },
+    {
+      "name": "poner modelo correcto de protector",
+      "description": "A veces los protectores de lentes son similares con otros modelos pero no son compatibles",
+      "props": [
+        "tiene imagen",
+        "tiene imagen defectuosa",
+        "tiene protector de lente",
+        "esta correctamente puesto el protector"
+      ]
+    },
+    {
+      "name": "poner correctamente el protector",
+      "description": "A veces los en proceso de ensamblado suelen colocoar mal el protector",
+      "props": [
+        "tiene imagen",
+        "tiene imagen defectuosa",
+        "tiene protector de lente"
+      ]
+    },
+    {
+      "name": "poner protector de lente",
+      "description": "A veces en el proceso de ensamblado se suele olvidar la colocación del protector de lente",
+      "props": [
+        "tiene imagen",
+        "tiene imagen defectuosa"
+      ]
+    },
+    {
+      "name": "cambiar camara principal",
+      "description": "A veces las camaras principales vienen dañados de origen",
+      "props": [
+        "tiene imagen",
+        "es el modelo correcto de camara",
+        "tiene software correcto"
+      ]
+    },
+    {
+      "name": "instalar software correcto",
+      "description": "A veces en el proceso de ensamblado suele haber errores durante la instalación del software",
+      "props": [
+        "tiene imagen",
+        "es el modelo correcto de camara"
+      ]
+    },
+    {
+      "name": "colocar modelo de camara correcto",
+      "description": "A veces las camaras son similares con otros modelos pero no son compatibles",
+      "props": [
+        "tiene imagen"
+      ]
+    },
+    {
+      "name": "reparar pin",
+      "description": "En pocos casos suele venir el pin doblado de la camara de origen o es dañado durante el proceso de ensamblado, esto hace que la camara no funcione correctamente",
+      "props": [
+        "enciende el telefono",
+        "esta conectada la camara principal",
+        "tiene pin doblado la camara",
+        "se puede reparar pin doblado"
+      ]
+    },
+    {
+      "name": "remplazar camara principal",
+      "description": "A veces las camaras principales vienen dañados de origen",
+      "props": [
+        "enciende el telefono",
+        "esta conectada la camara principal",
+        "tiene pin doblado la camara"
+      ]
+    },
+    {
+      "name": "cambiar placa main",
+      "description": "A veces la placa main suele venir dañada desde origen",
+      "props": [
+        "enciende el telefono",
+        "esta conectada la camara principal",
+        "tiene pin doblado la placa main"
+      ]
+    },
+    {
+      "name": "sustituir camara principal",
+      "description": "A veces las camaras principales vienen dañados de origen",
+      "props": [
+        "enciende el telefono",
+        "esta conectada la camara principal"
+      ]
+    },
+    {
+      "name": "conectar la camara principal",
+      "description": "A veces en el proceso de ensamblado se suele conectar mal la camara principal",
+      "props": [
+        "enciende el telefono"
+      ]
+    },
+    {
+      "name": "cargar el telefono",
+      "description": "A veces durante el proceso de ensamblado la bateria se descarga al dejar encendido el telefono",
+      "props": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+    "__v": 1,
+    "description": "Base de conocimiento sobre delitos en Tierra del Fuego",
+    "entries": [
+      {
+        "name": "Robo con arma de fuego y lesiones graves",
+        "description": "Delito gravísimo que involucra el uso de un arma de fuego y lesiones graves.",
+        "props": [
+          "El delito involucra violencia",
+          "El perpetrador portaba un arma",
+          "Hubo lesiones graves",
+          "Robo con armas y lesiones graves",
+          "El arma era de fuego"
+        ]
+      },
+      {
+        "name": "Robo con arma blanca y lesiones graves",
+        "description": "Delito grave que involucra el uso de un arma blanca y lesiones graves.",
+        "props": [
+          "El delito involucra violencia",
+          "El perpetrador portaba un arma",
+          "Hubo lesiones graves",
+          "Robo con armas y lesiones graves"
+        ]
+      },
+      {
+        "name": "Robo agravado",
+        "description": "Delito gravísimo que fue premeditado.",
+        "props": [
+          "El delito involucra violencia",
+          "El perpetrador portaba un arma",
+          "Hubo lesiones graves",
+          "El delito fue premeditado"
+        ]
+      },
+      {
+        "name": "Robo espontáneo",
+        "description": "Delito grave, pero no fue premeditado.",
+        "props": [
+          "El delito involucra violencia",
+          "El perpetrador portaba un arma",
+          "Hubo lesiones graves"     
+        ]
+      },
+      {
+        "name": "Robo con arma de fuego",
+        "description": "Delito grave que involucra el uso de un arma de fuego.",
+        "props": [
+          "El delito involucra violencia",
+          "El perpetrador portaba un arma",
+          "Robo con arma",
+          "El arma era de fuego"
+        ]
+      },
+      {
+        "name": "Robo con arma blanca",
+        "description": "Delito moderado que involucra el uso de un arma blanca.",
+        "props": [
+          "El delito involucra violencia",
+          "El perpetrador portaba un arma",
+          "Robo con arma"
+        ]
+      }, 
+      {
+        "name": "Robo con amenazas",
+        "description": "Delito agravado que involucra amenazas verbales.",
+        "props": [
+          "El delito involucra violencia",
+          "El perpetrador portaba un arma",
+          "La víctima sufrió amenazas verbales"
+        ]
+      },   
+      {
+        "name": "Robo sin amenazas",
+        "description": "Delito moderado que no involucró amenazas verbales.",
+        "props": [
+          "El delito involucra violencia",
+          "El perpetrador portaba un arma"
+        ]
+      },
+      {
+        "name": "Robo con violencia sin arma",
+        "description": "Delito moderado donde no se usó un arma, pero hubo violencia física hacia la víctima.",
+        "props": [
+          "El delito involucra violencia",
+          "Hubo resistencia de la víctima"
+        ]
+      },
+      {
+        "name": "Robo simple con violencia",
+        "description": "Delito leve que involucra violencia pero sin el uso de armas ni resistencia.",
+        "props": [
+          "El delito involucra violencia"
+        ]
+      },    
+      {
+        "name": "Vandalismo",
+        "description": "Delito leve que implica daño intencionado a la propiedad.",
+        "props": [
+          "Se produjo un daño a la propiedad",
+          "El daño fue intencionado"
+        ]
+      },
+      {
+        "name": "Daño accidental",
+        "description": "Infracción menor donde el daño a la propiedad fue accidental.",
+        "props": [
+          "Se produjo un daño a la propiedad"        
+        ]
+      },
+      {
+        "name": "Robo con entrada forzada",
+        "description": "Delito leve si hubo entrada forzada.",
+        "props": [
+          "Hubo entrada forzada"
+        ]
+      },
+      {
+        "name": "Hurto simple",
+        "description": "Infracción menor donde se cometió un hurto sin entrada forzada.",
+        "props": [
+        ]
+      }     
+    ]
+  }
+  

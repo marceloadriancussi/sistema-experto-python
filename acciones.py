@@ -3,7 +3,7 @@ Interfaz de consola y funciones de manejo de la base de conocimientos
 """
 from experto_general.engine import Engine
 
-# Motor como variable global
+# Motor como variable global jhhhhhhhh
 engine = Engine()
 
 # Carga la base de conocimientos desde "delitos.json" al iniciar Base_de_Conocimiento_Diagnostico_Automotriz

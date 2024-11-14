@@ -78,3 +78,4 @@ Clona el repositorio del sistema experto a tu computadora local. Esto crea una c
 Siguiendo estos pasos, deberías tener el sistema experto completamente funcional. Asegúrate de revisar cada paso para resolver posibles problemas de configuración.
 
 
+Github: https://github.com/marceloadriancussi/sistema-experto-python

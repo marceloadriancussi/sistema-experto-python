@@ -81,3 +81,5 @@ Siguiendo estos pasos, deberías tener el sistema experto completamente funciona
 Github: https://github.com/marceloadriancussi/sistema-experto-python
 
 En la carpeta "documentation" se encuentra los detalles del proyecto.
+
+En la carpeta "video" se encuentra la presentacion del proyecto.

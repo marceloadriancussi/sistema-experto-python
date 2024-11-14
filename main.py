@@ -62,11 +62,11 @@ def siguiente_pregunta():
             return {"pregunta": f"¿{pregunta.name}?"}
         else:  # Si no hay más preguntas, devuelve el resultado final.
             resultado = engine.get_result()
-            if resultado:  # Si se obtiene un resultado, devuelve los detalles del delito clasificado.
+            if resultado:  # Si se obtiene un resultado, devuelve los detalles del problema.
                 return {
-                    "resultado": f"Delito clasificado: {resultado.name}",#devuelve elnombre del Delito
-                    "descripcion": resultado.description, # Proporciona una descripción adicional del delito clasificado.
-                    "propiedades": [prop.name for prop in resultado.properties] # Lista todas las propiedades o características asociadas con el delito clasificado.
+                    "resultado": f": {resultado.name}",#devuelve el nombre la accion a tomar. 
+                    "descripcion": resultado.description, # Proporciona una descripción del motivo del problema.
+                    "propiedades": [prop.name for prop in resultado.properties] # Lista todas las propiedades o características asociadas con el problema.
                 }
             else:  # Si no hay coincidencias, indica que no se encontró ningún resultado.
                 return {"resultado": "No se encontró ninguna coincidencia"}

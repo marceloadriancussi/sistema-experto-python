@@ -3,13 +3,13 @@ Interfaz de consola y funciones de manejo de la base de conocimientos
 """
 from experto_general.engine import Engine
 
-# Motor como variable global jhhhhhhhh
+# Motor como variable global
 engine = Engine()
 
-# Carga la base de conocimientos desde "delitos.json" al iniciar Base_de_Conocimiento_Diagnostico_Automotriz
+# Carga la base de conocimientos desde "example.json"
 try:
-    engine.base.from_json("delitos.json")
-    print("Base de conocimientos 'delitos.json' cargada exitosamente.")
+    engine.base.from_json("example.json")
+    print("Base de conocimientos 'example.json' cargada exitosamente.")
 except Exception as e:
     print(f"Error al cargar la base de conocimientos: {e}")
 
